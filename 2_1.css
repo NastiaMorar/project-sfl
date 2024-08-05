@@ -1,0 +1,22 @@
+
+div{
+    width: 250px;
+    height: 250px;
+    background-color: orangered;
+    margin-top: 10px;
+}
+.blok1{
+    border-radius: 0 10px 10px 0;
+}
+.blok4{
+    border-radius: 50%;
+    background-color: orangered;
+}
+.blok2{
+    border-radius: 0 100px 0 100px;
+    background-color: green;
+}
+.blok3{
+    border-radius: 5% 100px 10% 100px;
+    background-color: yellow;
+}
